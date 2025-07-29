@@ -1,0 +1,6 @@
+[package]
+name = "ch_16_p1_concurrency_creating_thread"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

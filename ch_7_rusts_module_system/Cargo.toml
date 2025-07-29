@@ -1,0 +1,9 @@
+[package]
+name = "ch_7_rusts_module_system"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ch_7_p2_restaurant = { path = "../ch_7_p2_restaurant" }  # Adjust path as needed

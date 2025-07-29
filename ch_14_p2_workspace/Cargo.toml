@@ -1,0 +1,6 @@
+[workspace]
+resolver = "3"
+members = [
+    "adder",
+    "add-one"
+, "ch_15_p1_smart_pointers"]

@@ -1,0 +1,6 @@
+[package]
+name = "ch_15_p3_drop_trait"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
