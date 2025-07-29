@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "ch_4variables"
+name = "ch_15_p1_smart_pointers"
 version = "0.1.0"
