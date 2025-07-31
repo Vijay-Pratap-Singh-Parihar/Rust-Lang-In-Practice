@@ -1,0 +1,7 @@
+[package]
+name = "ch_17_p3_working_with_any_number_futures"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+trpl = "0.2.0"
